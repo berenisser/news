@@ -1,3 +1,7 @@
+*{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
 .container {
   padding-right: 120px;
   padding-left: 120px;
@@ -18,23 +22,50 @@
 
 .rojo p{
 	margin-bottom: 2px;
+	font-weight: bold;
 }
+
+.mt-24{
+	margin-top: 24px;
+}
+
+.primera{
+	padding: 40px 0;
+}
+
+/*redes sociales*/
 
 .redes-fa{
 	background-color: #3c5899;
 	padding: 20px 0;
+	cursor: pointer;
 }
 
 .redes-twitter{
 	background-color: #1ca2f4;
 	padding: 20px 0;
+	cursor: pointer;
 }
 
 .redes-rss{
 	background-color: #f90;
 	padding: 20px 0;
+	cursor: pointer;
 }
 
 i{
 	color: white;
+}
+
+.popular h3{
+	border-bottom: 2px solid #ea4749;
+}
+
+.pop-news h5{
+	color: #ea4749;
+}
+
+hr{
+	width: 100%;
+	margin: 8px 0;
 }
