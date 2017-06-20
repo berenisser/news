@@ -1,1 +1,40 @@
-/* Holiii otra vez */
+.container {
+  padding-right: 120px;
+  padding-left: 120px;
+}
+
+.rojito{
+	position: relative;
+}
+
+.rojo{
+	background-color: #ea4749;
+	color: #fff;
+	padding: 5px 25px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.rojo p{
+	margin-bottom: 2px;
+}
+
+.redes-fa{
+	background-color: #3c5899;
+	padding: 20px 0;
+}
+
+.redes-twitter{
+	background-color: #1ca2f4;
+	padding: 20px 0;
+}
+
+.redes-rss{
+	background-color: #f90;
+	padding: 20px 0;
+}
+
+i{
+	color: white;
+}

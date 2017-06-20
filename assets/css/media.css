@@ -1,0 +1,6 @@
+@media (min-width: 1px) and (max-width: 425px){
+	.container {
+	  padding-right: 15px;
+	  padding-left: 15px;
+	}
+}
